@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    background-color: blue;
+}
+
+
+h1{
+    color:gold;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+nav{
+    background-color: midnightblue;
+}
+a{
+    font-size: 20px;
+    color:gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+h2{
+    color:white;
+    font-size:40px;
+    text-align:center;
+
+}
+
+button{
+
+background-color: gold;
+color:black;
+
+
+}
+td{
+
+    font-size: 30px;
+}
+
+th{
+
+    font-size:30px;
+}
